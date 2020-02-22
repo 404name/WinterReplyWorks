@@ -1,0 +1,42 @@
+完成时间：2020.2.19-2020.2.21
+
+相关博客：https://www.cnblogs.com/404name/
+
+游戏内容：九宫格复原 + 熄灯问题游戏 
+
+有能力的可以自己写代码破解下第七关和后面的彩蛋。
+题目类型叫熄灯问题
+
+文件内容：
+├─java.jar                              //打包文件                     
+├─说明.txt						
+├─点击开始—小游戏合集.exe //主程序
+├─点灯笼解法.exe                  //C语言熄灯问题程序
+├─第1关.png
+├─第2关.png
+├─第3关.png
+├─第4关.png
+│
+└─src		             //源文件
+    ├─images
+    │
+    ├─img
+    │
+    ├─img3
+    │
+    ├─img4
+    │
+    ├─music
+    │   ├─Daisy.wav
+    │   ├─moon.wav
+    │   ├─ninelie.wav
+    │   └─xun.wav
+    │
+    └─test
+         ├─Music.java
+         ├─mygame.java
+         ├─mygame2.java
+         ├─mygame3.java
+         ├─mygame4.java    
+         └─Song.java
+（第七关是跟着教学视频av74415308做的，然后再自己写的前6关）
